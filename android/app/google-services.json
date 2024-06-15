@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "767991111805",
+    "project_id": "rhythmik-411fe",
+    "storage_bucket": "rhythmik-411fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767991111805:android:8c25572696f1ecfc9d1114",
+        "android_client_info": {
+          "package_name": "com.musicapp.musicapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5HJCVo8cxGaDv7CHEG6SNX11cocYTv3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
